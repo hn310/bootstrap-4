@@ -1,0 +1,15 @@
+.nav-item {
+    padding-left: 1rem;
+}
+
+#posts .btn,
+#categories .btn
+#users .btn {
+    white-space: nowrap;
+}
+
+#posts a,
+#categories a,
+#users a, {
+    cursor: pointer;
+}
